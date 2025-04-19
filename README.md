@@ -9,7 +9,7 @@ getting the data
 1.Connected PowerBI to MySQL DB to fetch the data 
 
 Cleaning the data
-1.Replace values of some of the columns where the values were inconsistent.
+1.Replaced values of some of the columns where the values were inconsistent.
 2.Change the data types for the columns.
 2.Used merge and append queries on the tables for the  buisness requirement
 3.Added a separate dim along with the fiscal year(for Atliq Fiscal year starts from september)
